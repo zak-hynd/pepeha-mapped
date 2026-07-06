@@ -1,0 +1,10 @@
+# pip dependencies for this project (if you're using pip instead of conda).
+geopandas==1.0.1
+numpy==2.3.0
+owslib==0.31.0
+requests==2.32.3
+matplotlib==3.9.4
+rasterio==1.4.4
+cartopy>=0.23
+rioxarray>=0.17
+jupyter>=1.0

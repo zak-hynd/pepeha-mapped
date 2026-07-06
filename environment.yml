@@ -1,0 +1,16 @@
+# conda dependencies for this project (if you're using conda instead of plain python)
+name: zak-hynd-pepeha-mapped
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.11
+  - geopandas
+  - numpy
+  - owslib
+  - requests
+  - matplotlib
+  - rasterio
+  - cartopy
+  - rioxarray
+  - jupyter

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.claude/
+.vscode/
+output/
+local_resources/
+scratch/
